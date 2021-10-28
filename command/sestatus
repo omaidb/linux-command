@@ -1,0 +1,1 @@
+sestatus命令用于查看系统上正在运行的SELinux的当前状态。
