@@ -1,0 +1,7 @@
+
+参考: [https://ywnz.com/linuxjc/2532.html](https://ywnz.com/linuxjc/2532.html)
+
+[https://www.linuxcool.com/package-cleanup](https://www.linuxcool.com/package-cleanup)
+# 清理旧的内核,保留两个版本---不过我试了这个参数不对,不知道什么情况
+package-cleanup --oldkernels --count=2
+
